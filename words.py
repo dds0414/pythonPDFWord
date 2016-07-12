@@ -1,10 +1,8 @@
-# coding=utf-8
+# -*- coding: utf-8 -*-
 
 import Image
 import cv2
-import numpy as np
 from pylab import *
-import glob
 import os
 import time
 
